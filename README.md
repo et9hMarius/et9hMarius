@@ -32,29 +32,9 @@ Here are some ideas to get you started:
 - 🔭 I'm always on the lookout for new technologies and projects to work on.
 - 🤖 Early adopter of AI and ML technologies, which gives me a significant boost in my productivity.
 
-## How do I spend my spare time?
-
-- 📖 I like to read non-fictional books, mostly, _psychology_, _self improvement_, _science_ and _history_.
-- 🎮 I enjoy playing video games, mostly _RPGs_, _sandboxes_, _indie_, _arcade_ and _story driven_ games.
-- 🚶‍♂️ I like to go on long walks and hikes, which also helps me to stay in shape, both physically and mentally.
-- 📺 Every now and then I love getting obsessed with a great show or series. Same goes for Youtube.
-  <br></br>
-
-<div align="center">
-
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white)
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
-
-</div>
-
-<div align="center">
-
 ## Skill set
+
+<div align="center">
 
 ### Technologies
 
@@ -93,8 +73,33 @@ Here are some ideas to get you started:
 
 </div>
 
+## How do I spend my spare time?
+
+- 📖 I like to read non-fictional books, mostly, _psychology_, _self improvement_, _science_ and _history_.
+- 🎮 I enjoy playing video games, mostly _RPGs_, _sandboxes_, _indie_, _arcade_ and _story driven_ games.
+- 🚶‍♂️ I like to go on long walks and hikes, which also helps me to stay in shape, both physically and mentally.
+- 📺 Every now and then I love getting obsessed with a great show or series. Same goes for Youtube.
+  <br></br>
+
 <div align="center">
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white)
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
+
+</div>
+
+<div align="center">
+
+## My github summary:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=et9hMarius&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## A quote to keep in mind:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Don%27t+over+specialize%2C+don%27t+be+too+sure+that+you+know+the+future.+Be+flexible.&author=Bjarne+Stroustrup%2C+The+creator+of+C%2B%2B)](https://www.youtube.com/watch?v=-QxI-RP6-HM)
 
