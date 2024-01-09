@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Test%20Quote&author=myself%20test)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Don%27t+over+specialize%2C+don%27t+be+too+sure+that+you+know+the+future.+Be+flexible.&author=Bjarne+Stroustrup%2C+The+creator+of+C%2B%2B)](https://www.youtube.com/watch?v=-QxI-RP6-HM)
