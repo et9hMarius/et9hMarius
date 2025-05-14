@@ -107,6 +107,5 @@ Here are some ideas to get you started:
 
 ## How to reach me
 
-- [🌐 My personal website](https://marius-mircioaga.vercel.app)
+- [🌐 My personal website](https://mariusmircioaga.com)
 - 📧 Email: [mariusmircioaga@gmail.com](mailto:mariusmircioaga@gmail.com)
-- [📷 Instagram](https://www.instagram.com/_mimarius/)
