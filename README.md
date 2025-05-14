@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 ## About me:
 
-- 🌱 I’m currently <b>learning</b> .NET and honing my React skills.
-- 📜 I'm working on a [_personal website_](https://marius-mircioaga.vercel.app).
+- 🌱 I’m currently <b>learning</b> Laravel and honing my .NET skills.
+- 📜 I'm working on a [_personal website_]([https://marius-mircioaga.vercel.app](https://mariusmircioaga.com)).
 - 📚 I'm a <b>student </b> at [_Politehnica University of Bucharest_](https://upb.ro).
 - 💻 I'm <b> employed </b> as a _full-stack developer_ at [Unicorn It Services](https://unicorn-tech.org).
 - 🔭 I'm always on the lookout for new technologies and projects to work on.
